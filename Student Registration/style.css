@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  .whole-container {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+  }
+  .navbar {
+    background-color: #0ebf31;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .navbar-brand {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  .navbar-nav .nav-link {
+    color: black;
+    font-size: 18px;
+  }
+  .right-part-form {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  .btn-success {
+    background-color: #0ebf31;
+    border: none;
+  }
+  .btn-success:hover {
+    background-color: #0daa2d;
+  }
+  .suggestion-dropdown li a {
+    text-decoration: none;
+    color: #333;
+    cursor: pointer;
+    display: block;
+    padding: 8px 12px;
+  }
+  .suggestion-dropdown li a:hover {
+    background-color: #b5dda7;
+  }
+  .suggestion-dropdown ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
